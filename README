@@ -1,0 +1,7 @@
+# Advent of Code 2023
+
+I did it in Haskell
+
+You can run scripts with `runghc` or compile them with `ghc`.
+
+Day 24 depends on `Decimal` for arbitrary-precision decimal numbers, I installed it globally with `stack`. 
